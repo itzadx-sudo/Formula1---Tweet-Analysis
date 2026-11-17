@@ -170,6 +170,8 @@ The notebook produces:
 - Fan engagement breakdown by category
 - Coherence scores per topic
 
+![Four charts from the Formula 1 analysis notebook covering race weekends, technical topics, changes over time, and fan engagement](./f1-race-topics.png)
+
 ## Acknowledgements
 
 - Dataset by [kaushiksuresh147](https://www.kaggle.com/kaushiksuresh147) on Kaggle
