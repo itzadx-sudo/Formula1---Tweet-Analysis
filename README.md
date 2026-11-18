@@ -10,7 +10,7 @@ The analysis starts with a random sample of 45,000 tweets from the [Formula 1 Tr
 
 The saved run grouped 19,248 tweets into 248 topics. The largest group included discussion of Lewis Hamilton, Max Verstappen, and the Abu Dhabi Grand Prix. Other clusters centered on race weekends and themes such as Mercedes and porpoising. The run recorded **0.5702 Cᵥ topic coherence**.
 
-[Open the notebook](notebooks/f1_topic_modeling.ipynb) to explore the topic breakdown, charts, and how they were produced.
+[Open the notebook](notebooks/f1_topic_modeling.ipynb) to explore the topic breakdown, charts, and how they were produced. Read the [project report (Word)](docs/f1topicmodellingdocumentation.docx) for the write-up.
 
 ## Run locally
 
