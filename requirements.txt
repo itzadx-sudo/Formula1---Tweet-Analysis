@@ -1,0 +1,16 @@
+bertopic
+emoji
+gensim
+hdbscan
+kagglehub
+langdetect
+matplotlib
+nltk
+notebook
+numpy
+pandas
+scikit-learn
+seaborn
+torch
+transformers
+umap-learn
